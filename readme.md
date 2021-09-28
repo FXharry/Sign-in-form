@@ -1,6 +1,6 @@
 # Projeto Formulário de SignIn
 
-Para ver o projeto ao vivo, [Clique Aqui;](https://fxharry.github.io/Sign-in-form/?)
+Para ver o projeto ao vivo, [Clique Aqui.](https://fxharry.github.io/Sign-in-form/?)
 
 ![Projeto Preview](https://github.com/FXharry/Sign-in-form/blob/master/assets/Sign-in.png?raw=true)
 
